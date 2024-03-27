@@ -3,7 +3,7 @@
 ## 소개
 Efficient-Finetuner는 LLM의 파인튜닝에 대한 다양한 고급 기능을 쉽고 효율적으로 활용할 수 있습니다.
 * 파인튜닝을 완료한 이후, LLM 모델을 사용자가 원하는 형식으로 저장할 수 있습니다.
-* (참고): Easy-Finetuner는 초심자, Efficient-Finetuner는 실무자를 위한 레포지토리입니다.
+* (참고): Easy-Finetuner는 초심자용, Efficient-Finetuner는 실무자용
 
 ---
 
